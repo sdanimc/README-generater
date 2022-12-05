@@ -39,7 +39,12 @@ const questions = [
         message: "List your collaborators, third party asset creators and links to any tutorials used in creating your project",
         type: "input"
     },
-    //do we include license in the questions? i assume so but wiht a different type like drop down?
+    {
+        name: "license",
+        message: "What license type is your project using?",
+        type: "list",
+        choices: ["None","Apache","GNU","MIT","BSD","Boost","Creative Commons","Eclipse"]
+    },
     {
         name: "tests",
         message: "Explain how users could test your application",
@@ -53,7 +58,9 @@ const questions = [
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) { }
+function writeToFile(fileName, data) {
+    //fs.writeFile('README.md')
+ }
 
 // TODO: Create a function to initialize app
 function init() { }
