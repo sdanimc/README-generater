@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license == "none"){
-    return '';
+    return ``;
   } else if (license == "Apache") {
     return `![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)`
   } else if (license == "GNU"){
