@@ -16,7 +16,7 @@
 
   ## Usage
   To use the application, users can open a terminal in their coding studio and run node index.js.  The terminal will then prompt the user with questions. The user input will be used to create the README content. When users have answered all prompts the terminal will show a Success! message and automatically generate a markdown file in the README generator file. Copy and paste the  file into the associated project folder and push to your repo.
-  ![Walkthrough Video](./Walkthrough gif.mp4)
+  ![Walkthrough Video](Walkthrough gif.mp4)
 
   ## Credits
   Orignal source code from UCI Bootcamp [How to Create a Professional Readme](https://github.com/coding-boot-camp/potential-enigma) 
