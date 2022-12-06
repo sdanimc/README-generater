@@ -1,9 +1,7 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
-  if (license == "none"){
-    return ``;
-  } else if (license == "Apache") {
+ if (license == "Apache") {
     return `![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)`
   } else if (license == "GNU"){
     return `![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)`
@@ -19,6 +17,8 @@ function renderLicenseBadge(license) {
     return `![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)`
   }else if (license == "Eclipse"){
     return `![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)`
+  } else {
+    return '';
   }
 }
 
