@@ -1,6 +1,6 @@
-# k 
+# Holy Grail Quest ![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)
   ## Description
-  k
+  To seek the Holy Grail!
   
 
   ## Table of Contents
@@ -8,22 +8,26 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits) 
+  - [License](#license)
   - [Tests](#tests)
   - [Questions](#questions)
   
   ## Installation
-  k
+  Thou shall count to 3 no more no less
 
   ## Usage
-  k
+  You get 2 halfs of coconut and bang them together
 
+  ## License
+  This code is covered under the Eclipse license
+    
   ## Credits
-  k
+  Sir Robin the Brave Sir Not Appearing in this Film etc.
  
   ## Tests
-  k
+  The must cut down a tree with a herring
 
   ## Questions
-  k
-  Github Username: k
-  Email: k
+  No Singing!
+  Github Username: King Arthur
+  Email: arthur@theroundtable.com
