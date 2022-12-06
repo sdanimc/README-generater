@@ -1,4 +1,4 @@
-# k ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+# k 
   ## Description
   k
   
@@ -8,7 +8,6 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits) 
-  - [License](#license)
   - [Tests](#tests)
   - [Questions](#questions)
   
@@ -18,9 +17,6 @@
   ## Usage
   k
 
-  ## License
-  This code is covered under the Apache license
-    
   ## Credits
   k
  
