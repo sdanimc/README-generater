@@ -1,6 +1,6 @@
-# Holy Grail Quest ![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)
+# README Generator 
   ## Description
-  To seek the Holy Grail!
+  A command line application that allows the user to create a correctly formatted README markdown file with all the sections required for a professional README
   
 
   ## Table of Contents
@@ -8,27 +8,24 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits) 
-  - [License](#license)
   - [Tests](#tests)
   - [Questions](#questions)
   
   ## Installation
-  Thou shall count to 3 no more no less
+  To download this application, copy the https code link, clone the code to your computer and open in a coding studio
 
   ## Usage
-  You get 2 halfs of coconut and bang them together
-  [Walkthrough Video](https://drive.google.com/file/d/1dgf1jDI4gYYmtGkxkoTyIqs99p-XYWnI/view)
+  To use the application, users can open a terminal in their coding studio and run node index.js.  The terminal will then prompt the user with questions. The user input will be used to create the README content. When users have answered all prompts the terminal will show a Success! message and automatically generate a markdown file in the README generator file. Copy and paste the  file into the associated project folder and push to your repo.
+  <img src="./">
 
-  ## License
-  This code is covered under the Eclipse license
-    
   ## Credits
-  Sir Robin the Brave Sir Not Appearing in this Film etc.
+  Orignal source code from UCI Bootcamp [How to Create a Professional Readme](https://github.com/coding-boot-camp/potential-enigma) 
+  Functionality coded by S. D. McMillan
  
   ## Tests
-  The must cut down a tree with a herring
+  Download the code and try generating a README!
 
   ## Questions
-  No Singing!
-  Github Username: King Arthur
-  Email: arthur@theroundtable.com
+  Let me know if you have any questions about this code!
+  Github Username: sdanimc
+  Email: samantha@themcmillans.net

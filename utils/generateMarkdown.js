@@ -75,7 +75,7 @@ ${renderLicenseSection(data.license)}
 
   ## Questions
   ${data.questions}
-  Github Username: ${data.github}
+  Github Link: https://github.com/${data.github}
   Email: ${data.email}
 `;
 }
