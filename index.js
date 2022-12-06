@@ -44,7 +44,7 @@ const questions = [
         name: "license",
         message: "What license type is your project using?",
         type: "list",
-        choices: ["None","Apache","GNU","MIT","BSD","Boost","Creative Commons","Eclipse"]
+        choices: ["None","Apache","GNU","MIT","BSD 2", "BSD 3", "Boost","Creative Commons","Eclipse"]
     },
     {
         name: "tests",
@@ -69,7 +69,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions)
     .then((answers) => writeToFile('README.md', generateMarkdown(answers)))
-    .then(()=> console.log('Sucess!'))
+    .then(()=> console.log('Success!'))
     .catch((err) => console.error(err));
  }
 
